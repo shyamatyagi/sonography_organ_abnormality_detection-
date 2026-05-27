@@ -41,9 +41,8 @@ YOLO is a real-time object detection model used for detecting and localizing abn
 - NumPy
 - Matplotlib
 - Google Colab
-```
 
----
+
 
 ## Dataset
 
@@ -77,7 +76,6 @@ The models were evaluated using:
 - Dice Score
 - mAP (Mean Average Precision)
 
----
 
 
 
